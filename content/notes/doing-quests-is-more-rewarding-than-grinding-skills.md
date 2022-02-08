@@ -4,6 +4,6 @@ Quests in RS involve talking to a person of interest somewhere in the world and 
 
 In a way, quests are very similar to projects in the real world. Projects and quests both involve a variety of skills, and those skills require a certain level of mastery to complete. There are some situations where mindlessly grinding is more efficient but often doing projects (questing) is the fastest way to improve. Even when grinding is faster, completing projects breaks down the grind and gives tangible milestones for a real goal with meaningful impacts. This fuels us with motivation to train ourselves to hit these milestones. It gives us [excited accountability](https://www.youtube.com/watch?v=OwqVtZn5df8)
 
-In RS, the XP you get from doing a quest is often much higher than if you grinded that skill repeatedly; just like if you actually apply a skill to a project you'll learn more from the context and from having to finish things from end-to-end. This is similar to how [[Enabling environments require a goal]]. Completing the quest could also give interesting perks from helping particular groups of people that can help with the related skills in the long run.
+In RS, the XP you get from doing a quest is often much higher than if you grinded that skill repeatedly; just like if you actually apply a skill to a project you'll learn more from the context and from having to finish things from end-to-end. This is similar to how enabling environments require a goal. Completing the quest could also give interesting perks from helping particular groups of people that can help with the related skills in the long run.
 
-[[requirements-for-a-real-life-quest]]
+[Requirements for a real-life quest](requirements-for-a-real-life-quest)

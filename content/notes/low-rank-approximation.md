@@ -1,6 +1,6 @@
 ## Everyday examples
 
 - Human intuition
-- [[vertical-slice]]
-- [[Spitpaint]]
-- [[skill-scaffolding]]
+- [Vertical slice](vertical-slice)
+- [Spitpaint](Spitpaint)
+- [Skill scaffolding](skill-scaffolding)

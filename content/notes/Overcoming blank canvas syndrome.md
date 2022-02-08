@@ -1,3 +1,0 @@
-#stubs 
-
-[[Happy accidents]]

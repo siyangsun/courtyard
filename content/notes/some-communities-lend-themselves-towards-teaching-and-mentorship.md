@@ -1,3 +1,5 @@
+## Some communities lend themselves towards teaching and mentorship
+
 - generally hobby communities are better about this than "professional" communities
 	- e.g. skateboarding vs. "being a lawyer"
 	- maybe because professional skills have these learnings gated behind certain hurdles? in this case, law school

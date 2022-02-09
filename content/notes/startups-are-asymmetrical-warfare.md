@@ -1,4 +1,9 @@
-#stubs
+---
+title: "Startups are asymmetrical warfare"
+tags:
+- stubs
+---
+
 
 [https://en.wikipedia.org/wiki/Skirmisher](https://en.wikipedia.org/wiki/Skirmisher)
 

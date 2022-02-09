@@ -1,3 +1,7 @@
+---
+title: "Low rank approximation"
+---
+
 ## Everyday examples
 
 - Human intuition

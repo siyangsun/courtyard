@@ -1,3 +1,7 @@
+---
+title: "Some communities lend themselves to teaching and mentorship"
+---
+
 ## Some communities lend themselves towards teaching and mentorship
 
 - generally hobby communities are better about this than "professional" communities

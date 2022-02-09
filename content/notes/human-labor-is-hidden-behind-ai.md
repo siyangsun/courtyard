@@ -1,3 +1,8 @@
+---
+title: "Human labor is hidden behind AI"
+tags:
+---
+
 ## Human labor is hidden behind AI
 
 #### Ghost work

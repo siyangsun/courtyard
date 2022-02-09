@@ -1,3 +1,7 @@
+---
+title: "MMO mechanics are glue work"
+---
+
 ## Doing mechanics
 In MMORPG raid encounters, a group of adventurers will get together to clear a dungeon or boss encounter. Each of these adventurers will have their own specialized role in the team; a tank that gets the attention of the boss and protects the party, damage dealers who try to down the boss as fast as possible, and supportive healers who try to keep everyone else alive. Playing one's own role can be difficult to optimize and have a [high skill ceiling](notes/high-skill-ceiling) as is, but modern raids will also throw in boss mechanics into the equation. These are events or minigames that may occur in the middle of the fight. For example, a player might need to periodically run to a pool of antidote to cure the party's lethal poison stacks, or a group of players might have to play an impromptu game of hot potato with a bomb that will explode for massive damage. Doing these mechanics often means having a dip in performance in your individual role performance, but not doing them would be disastrous for the whole group.
 

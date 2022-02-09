@@ -1,3 +1,7 @@
+---
+title: "AI is a collage"
+---
+
 ## Thinking of deep learning models as a collage
 [Dada, Instagram, and the Future of AI/](https://theartofresearch.org/we-are-collage-dada-instagram-and-the-future-of-ai/)
 - Interesting points about how snapchat / its clones are the modern version of Dada

@@ -1,3 +1,7 @@
+---
+title: "Collector's fallacy"
+---
+
 ## Collector's fallacy
 
 [Collector's fallacy](https://zettelkasten.de/posts/collectors-fallacy/): you really have to work with something to understand it.

@@ -1,3 +1,7 @@
+---
+title: "Learning exhaust"
+---
+
 ## learning exhaust
 #### Select quotes from https://www.swyx.io/learn-in-public/
 

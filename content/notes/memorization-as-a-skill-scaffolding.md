@@ -1,3 +1,7 @@
+---
+title: "Memorization as a skill scaffolding"
+---
+
 ## Why you should do flashcards / spaced repetition
 not to memorize just to memorize, but memorize so that when you see stuff, you can RECOGNIZE and UNDERSTAND it in context - which has a way bigger effect for learning
 

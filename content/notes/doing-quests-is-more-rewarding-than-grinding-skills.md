@@ -6,4 +6,4 @@ In a way, quests are very similar to projects in the real world. Projects and qu
 
 In RS, the XP you get from doing a quest is often much higher than if you grinded that skill repeatedly; just like if you actually apply a skill to a project you'll learn more from the context and from having to finish things from end-to-end. This is similar to how enabling environments require a goal. Completing the quest could also give interesting perks from helping particular groups of people that can help with the related skills in the long run.
 
-[Requirements for a real-life quest](requirements-for-a-real-life-quest)
+[Requirements for a real-life quest](notes/requirements-for-a-real-life-quest)

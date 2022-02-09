@@ -1,3 +1,3 @@
 #stubs 
 
-[unplanned-repeated-interactions](Unplanned repeated interactions)
+[unplanned-repeated-interactions](notes/Unplanned repeated interactions)

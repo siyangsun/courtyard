@@ -19,7 +19,7 @@ Like a collage or a democracy, AI depends heavily on its source material. A medi
 
 >"The data is the fabric, and the code is just the stitching."
 
-Your data isn't just something trivial you can give away; your data is who you are. It takes the culmination of many years to grow the height of the person whose data shows up on the driver's license. In fact, some people can provide extremely unusual data from [living a unique life to help humanity forward](living-a-unique-life-to-help-humanity-forward), and therefore push AI forward. However, this is only possible if the platforms are built centered around humans and what value they can bring to the table, rather than what we currently have: [human labor is hidden behind ai](human-labor-is-hidden-behind-ai).
+Your data isn't just something trivial you can give away; your data is who you are. It takes the culmination of many years to grow the height of the person whose data shows up on the driver's license. In fact, some people can provide extremely unusual data from [living a unique life to help humanity forward](notes/living-a-unique-life-to-help-humanity-forward), and therefore push AI forward. However, this is only possible if the platforms are built centered around humans and what value they can bring to the table, rather than what we currently have: [human labor is hidden behind ai](notes/human-labor-is-hidden-behind-ai).
 
 #### AI is not the end
 

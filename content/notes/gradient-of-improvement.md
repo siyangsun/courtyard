@@ -2,6 +2,6 @@ In mathematics, a gradient is a vector pointing in the direction of the steepest
 
 The largest hurdle when learning a new skill is where to go first. Without context or structured education, we struggle to break down skills into smaller requisite sub-skills, and struggle to prioritize how much effort to allot to these sub-skills and in what order. Essentially, we cannot find the optima and learn the whole skill because we are unable to find the gradient of improvement. 
 
-One way to quickly find the gradient of improvement is to build a [skill scaffolding](skill-scaffolding) from other developed skills.
+One way to quickly find the gradient of improvement is to build a [skill scaffolding](notes/skill-scaffolding) from other developed skills.
 
 This analogy is also useful when visualizing plateaus and local maxima. Just like in mathematical optimization, we require a more sophisticated method to get out of plateaus and local maxima which may involve temporarily reducing our level of skill to go in the right direction. Oftentimes this consists of working away bad habits.

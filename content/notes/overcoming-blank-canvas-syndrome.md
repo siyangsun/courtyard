@@ -1,3 +1,3 @@
 #stubs 
 
-[Happy accidents](happy-accidents)
+[Happy accidents](notes/happy-accidents)

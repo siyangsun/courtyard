@@ -9,7 +9,7 @@
 
 learning in private = grinding skills
 learning in public = doing quests
-[Doing quests is more rewarding than grinding skills](doing-quests-is-more-rewarding-than-grinding-skills)
+[Doing quests is more rewarding than grinding skills](notes/doing-quests-is-more-rewarding-than-grinding-skills)
 ![[Learning in Private.png]]
 
-also relates to [working with the garage door open](working-with-the-garage-door-open)
+also relates to [working with the garage door open](notes/working-with-the-garage-door-open)

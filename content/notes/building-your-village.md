@@ -4,5 +4,4 @@ tags:
 - stubs
 ---
 
-
-[unplanned-repeated-interactions](notes/Unplanned repeated interactions)
+Inhabiting the same physical or virtual spaces can cause [unplanned repeated interactions](notes/unplanned-repeated-interactions).

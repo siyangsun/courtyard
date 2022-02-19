@@ -6,7 +6,7 @@ title: "AI is a collage"
 [Dada, Instagram, and the Future of AI/](https://theartofresearch.org/we-are-collage-dada-instagram-and-the-future-of-ai/)
 - Interesting points about how snapchat / its clones are the modern version of Dada
 - many things are a collage today - video edits, hip hop samples, photoshops
-- consumer + creator combined
+- a collage is the consumer and the creator combined
 - GANs are the ultimate form of this (generator is the creator, discriminator is the consumer)
 - AI generated images are kind of like a super collage of thousands of images
 - Neural nets are just linear combinations

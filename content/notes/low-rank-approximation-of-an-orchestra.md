@@ -2,7 +2,7 @@
 title: "Low rank approximation of an orchestra"
 ---
 
-Different sizes of music groups can be imagined as a ([low rank approximation](notes/low-rank-approximation) of a full sound.
+Different sizes of music groups can be imagined as a [low rank approximation](notes/low-rank-approximation) of a full sound.
 
 Imagine a full symphony orchestra, with 100 members. They play a full symphonic arrangement, which we can assume to be the most high-fidelity, accurate representation of the composer's intent. Now, let's drop most of the members of the orchestra; maybe one person per instrumental section. There's still one person to play every single part to get the musical information across accurately, but much of the symphonic "feel" is lost. How about if we arrange this piece for a quartet? With 4 musicians, the piece is almost entirely different; yet fundamentally it's the same piece. What about with just one violin soloist with a piano accompaniment? We have reached the minimum number of people that can play this piece and have it still be the same song; the lowest rank approximation possible.
 

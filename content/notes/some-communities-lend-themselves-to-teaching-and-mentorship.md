@@ -1,12 +1,14 @@
 ---
-title: "Some communities lend themselves to teaching and mentorship"
+title: "Some communities lend themselves to unstructured teaching and mentorship"
 ---
 
-## Some communities lend themselves towards teaching and mentorship
-
 - generally hobby communities are better about this than "professional" communities
-	- e.g. skateboarding vs. "being a lawyer"
-	- maybe because professional skills have these learnings gated behind certain hurdles? in this case, law school
+	- e.g. skateboarding has way fewer [barriers to entry](notes/barriers-to-entry) vs. "being a lawyer"
+	- maybe because professional skills have these learnings gated behind certain hurdles that may be legitimate barriers. in this case, law school
+	- one could certainly cause more damage to others as an untrained lawyer than as an untrained skateboarder
 	- there are financial incentives for those with the knowledge to withold its free distribution outside of the community
 - grassroots hobby communities have better tools for learning / improvement / skill sharing
-	- for example, it's SUPER easy for me to learn how to play my death knight better for WoW. there are tons of guides out there that help optimize every tiny little thing, and many measurement tools that give a detailed look at where I can improve. however, these tools are not accessible for something like singing, and online guides tend to be much harder to follow
+	- for example, it's SUPER easy for me to learn how to play my death knight character better for WoW. there are tons of guides out there that help optimize every tiny little thing, and many measurement tools that give a detailed look at where I can improve. 
+	- however, these tools are not as accessible for something like singing, and online guides tend to be much harder to follow
+	- less grassroots communities generally follow a more traditional path of study with schools and teachers (who were themselves trained within established systems with their own barriers to entry) providing private lessons
+- communities revolving around skills with more emphasis on "natural ability" may have a reduced capacity for this

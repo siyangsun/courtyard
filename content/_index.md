@@ -13,7 +13,7 @@ This here is the entrance to my [digital garden](https://maggieappleton.com/gard
 All roads lead back to here in some way; feel free to explore and loot the knowledge as you desire. 
 
 ## What is this place for?
-I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite some time now and leveraging the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would [open up the garage door](notes/working-with-the-garage-door-open) and let some of that dust blow away.
+I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite some time now and exploring the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would [open up the garage door](notes/working-with-the-garage-door-open) and let some of that dust blow away.
 
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:

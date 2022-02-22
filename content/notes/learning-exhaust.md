@@ -1,8 +1,8 @@
 ---
 title: "Learning exhaust"
+tags: stubs
 ---
 
-## learning exhaust
 #### Select quotes from https://www.swyx.io/learn-in-public/
 
 >**make the thing you wish you had found** when you were learning

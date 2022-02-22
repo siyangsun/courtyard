@@ -1,5 +1,7 @@
 ---
 title: "Shortcomings of intention"
+tags:
+- stubs
 ---
 
 ## Shortcomings of intention

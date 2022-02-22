@@ -1,10 +1,9 @@
 ---
 title: "Low rank approximation"
+tags: stubs
 ---
-
-## Everyday examples
 
 - Human intuition
 - [Vertical slice](notes/vertical-slice)
 - [Spitpaint](notes/Spitpaint)
-- [Skill scaffolding](notes/skill-scaffolding)
+- [Cognitive scaffolding](notes/cognitive-scaffolding)

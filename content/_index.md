@@ -8,7 +8,7 @@ https://scp-wiki.wikidot.com/scp-4005
 
 ## Welcome to the courtyard! 
 
-This here is the entrance to my [digital garden](https://maggieappleton.com/garden-history), or [second brain](https://fortelabs.co/blog/basboverview/), or[ crazy wall](https://en.wikipedia.org/wiki/Evidence_board), or web of near-truths, or [eternal labyrinth](https://www.poewiki.net/wiki/The_Lord%27s_Labyrinth), or whatever other visual analogy most kindly speaks the concept to you. Though there it has [no walls](https://en.wikipedia.org/wiki/Closed_platform), it tries to contain ideas as I have shaped and arranged them to my liking. Some of these paths may connect or intersect in unexpected ways, or they may not.
+This here is the entrance to my [digital garden](https://maggieappleton.com/garden-history), or [second brain](https://fortelabs.co/blog/basboverview/), or[ crazy wall](https://en.wikipedia.org/wiki/Evidence_board), or web of near-truths, or [eternal labyrinth](https://www.poewiki.net/wiki/The_Lord%27s_Labyrinth), or whatever other visual analogy most kindly speaks the concept to you. Though there it has [no walls](https://en.wikipedia.org/wiki/Closed_platform), it tries to contain ideas as I have shaped and arranged them to my liking. Some of these paths may connect or intersect in unexpected ways, or they may not. In harmony with the digital gardening ethos, the contents are perpetually under construction to some degree.
 
 All roads lead back to here in some way; feel free to explore and loot the knowledge as you desire. 
 

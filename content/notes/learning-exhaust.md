@@ -10,7 +10,8 @@ Unlike vehicle emissions, producing learning exhaust requires intentioned effort
 learning in private = grinding skills
 learning in public = doing quests
 [Doing quests is more rewarding than grinding skills](notes/doing-quests-is-more-rewarding-than-grinding-skills)
-![[Learning in Private.png]]
+
+![[notes/images/Learning in Private.png]]
 
 also relates to [working with the garage door open](notes/working-with-the-garage-door-open)
 

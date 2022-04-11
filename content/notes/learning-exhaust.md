@@ -1,5 +1,6 @@
 ---
 title: "Learning exhaust"
+tags:
 - foundation
 ---
 

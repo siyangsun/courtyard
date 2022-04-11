@@ -1,7 +1,6 @@
 ---
 title: "Training your intuition"
 tags:
-- stubs
 ---
 
 Many professionals in various fields have talked about relying on "feeling" over strictly adhering to rules. Rather than using predefined rules for decisionmaking, their approach to learning is to train your intuition. This can be done by just experiencing a large number of data points (e.g. watching tv shows in a new language, skiing down moguls until you figure it out, seeing enough business scenarios). In fact, the intangible quality of having "experience" in something can often compose of a well-developed intuition. 

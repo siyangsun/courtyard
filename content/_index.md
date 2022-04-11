@@ -19,8 +19,8 @@ I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite s
 I've found the best way to navigate a digital garden is just like you'd navigate a "real" garden - by wandering from room to room based on what seems interesting. This can be done by clicking on any of the internal links. There's also a map of the full layout of connected links at the bottom. A benefit of digitization is that you can also directly search for pages or keywords at the top. There are also tags that you can search.
 
 #### Current tags:
-- #foundation: pages with thoughts that are not fleshed out; might just contain bullets or links to other pages
-- #tent: ephemeral pages that don't really contain knowledge and may change a lot, contrary to the ethos of [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+- `#foundation`: pages with thoughts that are not fleshed out; might just contain bullets or links to other pages
+- `#tent`: ephemeral pages that don't really contain knowledge and may change a lot, contrary to the ethos of [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)

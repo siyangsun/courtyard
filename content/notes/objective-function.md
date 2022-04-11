@@ -1,7 +1,7 @@
 ---
 title: "Objective function"
 tags:
-- stubs
+- foundation
 ---
 
 In mathematical optimization, an objective function represents the phenomenon we want to maximize or minimize. 

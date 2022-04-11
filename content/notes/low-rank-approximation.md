@@ -1,6 +1,6 @@
 ---
 title: "Low rank approximation"
-tags: stubs
+- foundation
 ---
 
 - Human intuition

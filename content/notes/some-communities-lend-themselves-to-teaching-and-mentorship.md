@@ -1,7 +1,7 @@
 ---
 title: "Some communities lend themselves to unstructured teaching and mentorship"
 tags:
-- stubs
+- foundation
 ---
 
 - generally hobby communities are better about this than "professional" communities

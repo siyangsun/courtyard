@@ -1,7 +1,7 @@
 ---
 title: "Shortcomings of intention"
 tags:
-- stubs
+- foundation
 ---
 
 ## Shortcomings of intention

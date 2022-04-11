@@ -1,6 +1,6 @@
 ---
 title: "Resource management"
-tags: stubs
+- foundation
 ---
 
 Resource management games can be framed as optimization problems.

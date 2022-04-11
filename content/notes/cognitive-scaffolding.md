@@ -1,7 +1,7 @@
 ---
 title: "Cognitive scaffolding"
 tags:
-- stubs
+- foundation
 ---
 
 https://notes.andymatuschak.org/Cognitive_scaffolding

@@ -1,7 +1,7 @@
 ---
 title: "Happy accidents"
 tags:
-- stubs
+- foundation
 ---
 
 >We don't make mistakes -- we just have happy accidents.

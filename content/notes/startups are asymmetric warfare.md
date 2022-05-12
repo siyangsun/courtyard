@@ -13,4 +13,4 @@ This is similar to a startup, which has limited resources but can operate unconv
 
 > Though often critical in protecting the main army from sudden enemy advances, skirmishers are poor at taking or defending ground from [heavy infantry](https://en.wikipedia.org/wiki/Heavy_infantry "Heavy infantry") or [heavy cavalry](https://en.wikipedia.org/wiki/Heavy_cavalry "Heavy cavalry").
 
-This is similar to prioritizing [tempo vs. value](notes/tempo-vs-value) in card games.
+This is similar to prioritizing [[tempo vs value]] in card games.

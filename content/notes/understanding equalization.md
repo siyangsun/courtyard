@@ -24,4 +24,4 @@ Equalization is an important tool in signals processing that lets us control the
 - Turn gain on sound down a lot, then take an EQ and sweep a boost around to see where it should sit in the mix
 
 ## Practice strategy
-Take a low/high pass filter on white noise or any song, and try to blind guess what frequency range the cut is at. This can help [train intuition](notes/training-intuition) for what certain frequency ranges sound like.
+Take a low/high pass filter on white noise or any song, and try to blind guess what frequency range the cut is at. This can help [[training intuition|train intuition]] for what certain frequency ranges sound like.

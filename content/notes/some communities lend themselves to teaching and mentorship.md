@@ -5,7 +5,7 @@ tags:
 ---
 
 - generally hobby communities are better about this than "professional" communities
-	- e.g. skateboarding has way fewer formal [barriers to entry](notes/barriers-to-entry) vs. "being a lawyer"
+	- e.g. skateboarding has way fewer formal [[barriers to entry]] vs. "being a lawyer"
 		- obviously there are barriers such as physical ability, coordination, access to a skateboard and space to use it, etc.
 		- however once you have those, you don't need to prove to anyone else that you're a skater. you can also pretty much do whatever you want as long as it's within your ability to do so.
 	- maybe because professional skills have these learnings gated behind certain hurdles that may be legitimate barriers. in this case, law school

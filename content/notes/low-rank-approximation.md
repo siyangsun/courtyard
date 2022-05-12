@@ -4,6 +4,9 @@ tags:
 - foundation
 ---
 
+A low rank approximation is a form of dimensionality reduction where we come up with a lower-dimensional estimation of a given matrix or dataset. It can be framed as an [optimization problem](optimization-problem.md), where we try to minimize the error between the actual data and the approximation. 
+
+Real world analogies:
 - Human intuition
 - [Vertical slice](notes/vertical-slice)
 - [Spitpaint](notes/Spitpaint)

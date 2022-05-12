@@ -1,6 +1,10 @@
 name: Siyang Sun
 enableToc: true
+openToc: false
 enableLinkPreview: true
+enableLatex: true
+enableSPA: true
+enableContextualBacklinks: true
 description:
   Siyang's digital garden
 page_title:

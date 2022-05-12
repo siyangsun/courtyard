@@ -25,8 +25,3 @@ I've found the best way to navigate a digital garden is just how you'd navigate 
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)
-
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/)

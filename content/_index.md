@@ -14,7 +14,7 @@ This here is the entrance to my [digital garden](https://maggieappleton.com/gard
 All roads lead back to here in some way; feel free to explore and loot the knowledge as you desire.
 
 ## What is this place for?
-I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite some time now and exploring the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would [open up the garage door](working%20with%20the%20garage%20door%20open.md) and let some of that dust blow away.
+I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite some time now and exploring the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would [[working with the garage door open]] and let some of that dust blow away.
 
 ## How do you navigate this site?
 I've found the best way to navigate a digital garden is just how you'd navigate a "real" garden - by wandering from room to room based on what seems interesting. This can be done by clicking on any of the internal links throughout each page. There's also a map of the full layout of connected links at the bottom. A benefit of digitization is that you can also directly search for pages or keywords at the top. There are also tags that you can search.
@@ -29,4 +29,4 @@ You can read more about me on my [main site!](https://siyangsun.github.io/)
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
-- [All Notes](/notes)
+- [All Notes](/)

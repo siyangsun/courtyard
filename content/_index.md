@@ -1,7 +1,6 @@
 ---
 title: The Courtyard
 ---
-=======
 
 
 >In the centre of the web, at the perfect location of cosmic time, the crossroads of the city, lies a palace. It does not look grand. It does not look like anything special; just a red house in Marrakesh. And in it is a courtyard. And inside that is a grey-faced emir, who is smiling, just smiling, sitting on the ground and smiling at a sun that washes over a city that will never die. And he smiles because he knows that utopia is possible, if one only steps, inch by inch, into their own creation.

@@ -2,7 +2,7 @@ baseURL = "https://siyangsun.github.io/courtyard/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 pygmentsUseClasses = true
-relativeURLs = true
+relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
@@ -28,3 +28,6 @@ enableGitInfo = true
         lineNumbersInTable = true
         style = "dracula"
         tabWidth = 4
+    [frontmatter]
+        lastmod = ["lastmod", ":git", "date", "publishDate"]
+        publishDate = ["publishDate", "date"]

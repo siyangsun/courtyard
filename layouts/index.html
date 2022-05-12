@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ .Lang }}">
 {{ partial "head.html" . }}
 
 <body>
@@ -13,16 +13,10 @@
         {{partial "darkmode.html" .}}
     </header>
     <article>
-        {{if $.Site.Data.config.enableToc}}
-        <aside class="mainTOC">
-            <h3>Table of Contents</h3>
-            {{ .TableOfContents }}
-        </aside>
-        {{end}}
-        {{- .Content -}}
+        {{partial "toc.html" .}}
+        {{partial "textprocessing.html" . }}
     </article>
     {{partial "footer.html" .}}
 </div>
 </body>
 </html>
-

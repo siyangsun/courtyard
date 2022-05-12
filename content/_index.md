@@ -1,9 +1,23 @@
 ---
+<<<<<<< HEAD
 title: The Courtyard
 ---
+=======
+title: 🪴 Quartz 3.2
+---
+
+Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+
+1. Extremely fast full-text search by pressing `Ctrl` + `k`
+2. Customizable and hackable design based on Hugo
+3. Automatically generated backlinks, link previews, and local graph
+4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
+5. Support for both Markdown Links and Wikilinks
+>>>>>>> ed9a8efd1ff4ee569fa4256e044151670abaea82
 
 >In the centre of the web, at the perfect location of cosmic time, the crossroads of the city, lies a palace. It does not look grand. It does not look like anything special; just a red house in Marrakesh. And in it is a courtyard. And inside that is a grey-faced emir, who is smiling, just smiling, sitting on the ground and smiling at a sun that washes over a city that will never die. And he smiles because he knows that utopia is possible, if one only steps, inch by inch, into their own creation.
 
+<<<<<<< HEAD
 https://scp-wiki.wikidot.com/scp-4005
 
 ## Welcome to the courtyard! 
@@ -24,6 +38,9 @@ I've found the best way to navigate a digital garden is just how you'd navigate 
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)
+=======
+Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
+>>>>>>> ed9a8efd1ff4ee569fa4256e044151670abaea82
 
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:

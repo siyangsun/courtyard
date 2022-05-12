@@ -26,9 +26,6 @@ I've found the best way to navigate a digital garden is just how you'd navigate 
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)
-=======
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
->>>>>>> ed9a8efd1ff4ee569fa4256e044151670abaea82
 
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:

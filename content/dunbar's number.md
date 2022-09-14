@@ -1,5 +1,5 @@
 ---
-title: "## Dunbar's Number"
+title: "Dunbar's Number"
 ---
 
 ## Dunbar's Number

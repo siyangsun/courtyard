@@ -1,5 +1,7 @@
 ---
 title: "Collector's fallacy"
+tags: 
+- room
 ---
 
 ## Collector's fallacy

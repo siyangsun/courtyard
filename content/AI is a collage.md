@@ -1,5 +1,7 @@
 ---
 title: "AI is a collage"
+tags: 
+- room
 ---
 
 A [generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) is a type of machine learning framework often used for creating images. 

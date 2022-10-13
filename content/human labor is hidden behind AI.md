@@ -1,5 +1,7 @@
 ---
 title: "Human labor is hidden behind AI"
+tags: 
+- room
 ---
 
 ## Human labor is hidden behind AI

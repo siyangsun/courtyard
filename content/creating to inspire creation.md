@@ -1,5 +1,7 @@
 ---
 title: "Creating to inspire creation"
+tags: 
+- room
 ---
 
 My main goal in making things is to inspire others to make things, potentially in new ways. Maybe someone will see my paintings and think, "I want to learn how to paint like that!" or "I want to incorporate those brushstrokes that into my style!" or even "I want to write a book about the concepts here". 

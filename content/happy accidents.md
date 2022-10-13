@@ -1,7 +1,7 @@
 ---
 title: "Happy accidents"
 tags:
-- foundation
+- hallway
 ---
 
 >We don't make mistakes -- we just have happy accidents.

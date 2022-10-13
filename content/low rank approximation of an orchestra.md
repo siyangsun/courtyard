@@ -1,5 +1,7 @@
 ---
 title: "Low rank approximation of an orchestra"
+tags: 
+- room
 ---
 
 Different sizes of music groups can be imagined as a [[low rank approximation]] of a full sound.

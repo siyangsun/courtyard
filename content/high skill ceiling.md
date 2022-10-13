@@ -1,6 +1,7 @@
 ---
 title: "High skill ceiling"
-tags:
+tags: 
+- room
 ---
 
 

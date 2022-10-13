@@ -1,7 +1,7 @@
 ---
 title: "Bitwig studio"
 tags:
-- foundation
+- hallway
 ---
 
 ## Bitwig studio

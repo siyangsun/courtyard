@@ -1,5 +1,7 @@
 ---
 title: "MMO mechanics are glue work"
+tags: 
+- room
 ---
 
 ## Doing mechanics

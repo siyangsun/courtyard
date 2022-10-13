@@ -1,5 +1,7 @@
 ---
 title: "Gradient of improvement"
+tags: 
+- room
 ---
 
 In mathematics, a gradient is a vector pointing in the direction of the steepest descent/ascent. The magnitude of the vector is how steep the slope is, and so the gradient is the vector with the largest magnitude, or in other words the largest change. If we want to find the highest point in a topography (the maximum of the [objective function](objective%20function.md), one approach is to always follow the direction of the steepest gradient, which will lead us to the local maximum faster than other methods.

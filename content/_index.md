@@ -11,7 +11,7 @@ https://scp-wiki.wikidot.com/scp-4005
 
 This here is the entrance to my [digital garden](https://maggieappleton.com/garden-history), or [second brain](https://fortelabs.co/blog/basboverview/), or[ crazy wall](https://en.wikipedia.org/wiki/Evidence_board), or web of near-truths, or [eternal labyrinth](https://www.poewiki.net/wiki/The_Lord%27s_Labyrinth), or whatever other visual analogy most kindly speaks the concept to you. Though there it has [no walls](https://en.wikipedia.org/wiki/Closed_platform), it tries to contain ideas as I have shaped and arranged them to my liking. Some of these paths may connect or intersect in unexpected ways, or they may not. In harmony with the digital gardening ethos, the contents are perpetually under construction to some degree.
 
-All roads lead back to here in some way; feel free to explore and loot the knowledge as you desire.
+Most roads lead back to here in some way; feel free to explore and loot the knowledge as you desire.
 
 ## What is this place for?
 I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite some time now and exploring the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would [[working with the garage door open]] and let some of that dust blow away.
@@ -20,8 +20,9 @@ I've been taking scattered notes in [obsidian](https://obsidian.md/) for quite s
 I've found the best way to navigate a digital garden is just how you'd navigate a "real" garden - by wandering from room to room based on what seems interesting. This can be done by clicking on any of the internal links throughout each page. There's also a map of the full layout of connected links at the bottom. A benefit of digitization is that you can also directly search for pages or keywords at the top. There are also tags that you can search.
 
 #### Current tags:
-- `#foundation`: pages with thoughts that are not fleshed out; might just contain bullets or links to other pages
-- `#tent`: ephemeral pages that don't really contain knowledge and may change a lot, contrary to the ethos of [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+- `hallway:` pages with thoughts that are not fleshed out; might just contain bullets or links to other pages
+- `tent`: ephemeral pages that don't really contain knowledge and may change a lot, contrary to the ethos of [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+- `room`: everything else
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)

@@ -1,5 +1,7 @@
 ---
 title: "Visual library"
+tags: 
+- room
 ---
 
 ## Visual Library

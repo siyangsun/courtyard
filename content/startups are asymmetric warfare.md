@@ -1,7 +1,7 @@
 ---
 title: "Startups are asymmetric warfare"
 tags:
-- foundation
+- hallway
 ---
 
 

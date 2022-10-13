@@ -1,5 +1,7 @@
 ---
 title: "Requirements for a real-life quest"
+tags: 
+- room
 ---
 
 ## Requirements

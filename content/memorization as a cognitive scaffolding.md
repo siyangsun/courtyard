@@ -1,5 +1,7 @@
 ---
 title: "Memorization as a cognitive scaffolding"
+tags: 
+- room
 ---
 
 ## Why you should do flashcards / spaced repetition

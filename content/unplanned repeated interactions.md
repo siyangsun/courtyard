@@ -1,7 +1,7 @@
 ---
 title: "Unplanned repeated interactions"
 tags:
-- foundation
+- hallway
 ---
 
 Social [[happy accidents]]

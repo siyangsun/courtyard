@@ -1,7 +1,7 @@
 ---
 title: "Spitpaint"
 tags:
-- foundation
+- hallway
 ---
 
 A spitpaint is a 30 minute sketch of a set topic. It's kind of like the minimum-viable painting

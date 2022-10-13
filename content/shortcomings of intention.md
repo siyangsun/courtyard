@@ -1,7 +1,7 @@
 ---
 title: "Shortcomings of intention"
 tags:
-- foundation
+- hallway
 ---
 
 ## Shortcomings of intention

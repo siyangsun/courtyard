@@ -1,7 +1,7 @@
 ---
 title: "Cognitive scaffolding"
 tags:
-- foundation
+- hallway
 ---
 
 https://notes.andymatuschak.org/Cognitive_scaffolding

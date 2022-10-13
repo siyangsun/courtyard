@@ -4,8 +4,6 @@ tags:
 - room
 ---
 
-## Collector's fallacy
-
 [Collector's fallacy](https://zettelkasten.de/posts/collectors-fallacy/): you really have to work with something to understand it.
 Knowing **about** a thing is not the same thing as knowing it.
 

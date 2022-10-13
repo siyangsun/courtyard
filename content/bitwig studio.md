@@ -4,8 +4,6 @@ tags:
 - hallway
 ---
 
-## Bitwig studio
-
 Bitwig studio is a Digital Audio Workstation designed by Bitwig GmbH.
 
 #### Standout features

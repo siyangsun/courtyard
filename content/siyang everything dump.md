@@ -4,7 +4,6 @@ tags:
 - room
 ---
 
-## Siyang everything dump
 A few years ago I started posting sketches and unfinished artwork in a [secret tumblr account](https://siyang-art-dump.tumblr.com/). I don't quite remember why I did it, but it must have been some combination of:
 - getting in the habit of "finishing"
 - avoiding (minor) scrutiny I'd otherwise experience from any (very small) following on other accounts
@@ -19,7 +18,7 @@ Here and there I found myself thinking, why not make a "Siyang everything dump" 
 ![[how many times i thought about everything dump.png]]
 
 Exploring where to go let me to a bunch of interesting tools (many of which I still use):
-- [obsidian vaults](https://obsidian.md/)
+- [[obsidian]] vaults
 - notion (was a bit too slow and clunky for how i wanted to use it)
 - APPLE NOTES (god tier tbh)
 - wholesome finsta or private twitter account

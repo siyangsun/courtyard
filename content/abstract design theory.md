@@ -245,3 +245,33 @@ Here are my working notes from the class:
 - these ALSO should follow the design principles we discussed
 
 #### homework: JUGGLING TIME (welcome to the circus)
+
+## lecture 5
+
+#### tying it all together into the real art world
+- so much of it is based on how much you trust yourself
+- instead of juggling it's more like keeping different rhythms at the same time with multiple instruments
+- the moment your brain stops to analyze one hand it is the moment you slip
+- can take a moment AFTER you've made some major shapes
+
+#### main points from homework / things to think about
+- exterior silhouette has evenly spaced chunks
+- pinch points lining up / strong symmetries
+
+#### demo
+- making random bubbles / noise and trying to find the forms (either by outlining silhouette, or blocking out)
+- strands are a nice small place to practice
+- more detail will lose sense of big shapes that were initially in silhouette. big heavy gradiations can help deal with this
+	- tons of small detail everywhere loses sense of scale
+	- big areas of rest with some really intricate tiny details results in scale
+	- aka more contrast between the bigger stuff and smaller stuff
+- re-unification: take a big airbrush and make big sweeping gradiations, then re-build what you to have defined
+
+#### mindset on art improvement
+- "the way you look at your own art is not the most objective viewpoint on things"
+- swayed by mental state and psychology and overall sense of self-worth
+- even sinix keeps coming up with new observations on art improvement every year
+
+#### assignment: bring in some representational stuff
+- start pieces abstract, then find little places to turn things representational (while maintaining abstract sensitibilities)
+- bring some of that looseness into everything you do

@@ -9,7 +9,7 @@ A few years ago I started posting sketches and unfinished artwork in a [secret t
 - avoiding (minor) scrutiny I'd otherwise experience from any (very small) following on other accounts
 - an early idea of [[working with the garage door open]]
 
-Either way, I started posting a ridiculous number of loose artwork to the point where I'd pretty much stopped using DeviantArt and Instagram altogether. I even somehow gained a handful of devoted aesthetic rebloggers who would constantly repost my stuff. Who knows how they even found it...
+Either way, I started posting a ridiculous number of loose artworks to the point where I'd pretty much stopped using DeviantArt and Instagram altogether. I even somehow gained a handful of devoted aesthetic rebloggers who would constantly repost my stuff. Who knows how they even found it...
 
 Years later I applied this idea to a beat dump on soundcloud where I'd post music, with an even greater emphasis on those three motivations. The second piece was further empowered by liberal use of private tracks. It became almost a time capsule of sorts for me to go back and listen to how my sound improved and evolved. The timeline view and option to upload album covers gave it an edge over just listening to my own `.wav` files in folders, especially for getting REALLY into how I was thinking and feeling at the time. I could also share tracks with close friends and interact with some form of community on the soundcloud platform (although most of them were clearly poorly disguised bots). It was great. So I posted everything to both this and the art microblog separately for a long time. 
 

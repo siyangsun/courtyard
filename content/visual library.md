@@ -2,6 +2,7 @@
 title: "Visual library"
 tags: 
 - room
+- drawing
 ---
 
 A visual library is a mental map of all the objects and images we've seen. Information stored in one's visual library includes what things are, how they function, how they move, what they look like from different angles, their materials and textures, and how their weight is distributed. This helps in [[training intuition]] on how objects really look and move, which is key in thinking about [[design as problem solving]] (e.g. how would this machine's joints move?).

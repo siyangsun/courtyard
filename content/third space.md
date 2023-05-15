@@ -1,5 +1,5 @@
 ---
-title: "Third place"
+title: "Third space"
 tags: 
 - hallway
 ---

@@ -1,7 +1,8 @@
 ---
 title: "Some communities lend themselves to unstructured teaching and mentorship"
 tags:
-- hallway
+- room
+- under-construction
 ---
 
 - generally hobby communities are better about this than "professional" communities

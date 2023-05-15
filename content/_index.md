@@ -14,15 +14,19 @@ This here is the entrance to my [digital garden](https://maggieappleton.com/gard
 Most roads lead back to here in some way; feel free to explore and loot the knowledge as you desire.
 
 ## What is this place for?
-I've been taking scattered notes in [[obsidian]] for quite some time now and exploring the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would [[working with the garage door open]] and let some of that dust blow away.
+I've been taking scattered notes in [[obsidian]] for quite some time now and exploring the power of bidirectional links to discover unanticipated connections between ideas. Many of these ideas I collected ended up collecting dust. I figured I would start by [[working with the garage door open]] and let some of that dust blow away.
 
 ## How do you navigate this site?
 I've found the best way to navigate a digital garden is just how you'd navigate a "real" garden - by wandering from room to room based on what seems interesting. This can be done by clicking on any of the internal links throughout each page. There's also a map of the full layout of connected links at the bottom. A benefit of digitization is that you can also directly search for pages or keywords at the top. There are also tags that you can search.
 
 #### Current tags:
 - `hallway:` pages with thoughts that are not fleshed out; might just contain bullets or links to other pages
-- `tent`: ephemeral pages that don't really contain knowledge and may change a lot, contrary to the ethos of [evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+- `closet`: lists of things, could be pretty disorganized
 - `room`: everything else
+- `exhibit`: a cool page that I'm especially proud of!
+- `under-construction`: tag, mostly for myself, to do some work on this page at a later point
+- topical tags (`drawing`, `music`, `tech`): self-explanatory
+
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)

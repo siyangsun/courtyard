@@ -23,6 +23,7 @@ Exploring where to go let me to a bunch of interesting tools (many of which I st
 - APPLE NOTES (god tier tbh)
 - wholesome finsta or private twitter account
 - [are.na](https://www.are.na/siyang-sun)
+- substack
 - digital gardens
 
 And after all that, I'm now arriving on some really basic ideas that anybody could probably come up with. Maybe the reason everyone turns to microblogging on social media (twitter, instagram, even tiktok) or macroblogging on an actual blog is that it's the way to go. So I'll try it again. The good news is all my notes and notions and obsidians have a ton of unorganized medium-form content that's just itching to get posted. It'll be fun to go through and curate the backfill on that. The nice thing about digital gardens is that I don't have to commit to posts being frozen in time either; I can go back and revisit them as their meaning changes in my life. 

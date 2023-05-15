@@ -2,6 +2,7 @@
 title: "Learning exhaust"
 tags:
 - hallway
+- under-construction
 ---
 
 While learning, many students will take notes and cheatsheets, which they share between their classmates. This is an example of learning exhaust. These outputs can be a great way to not only reinforce your own learning, but help others who are on the same journey. The exhaust can even circulate, helping those in the future who will eventually want to learn what you learned; the internet further enables this.

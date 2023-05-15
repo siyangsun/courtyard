@@ -2,6 +2,7 @@
 title: "Doing quests is more rewarding than grinding skills"
 tags: 
 - room
+- exhibit
 ---
 
 When playing an [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game), there are two main ways of leveling up: doing quests and grinding skills. Generally quests and grinding line up to some degree, but not in [RuneScape](https://play.runescape.com/).

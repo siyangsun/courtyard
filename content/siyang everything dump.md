@@ -3,7 +3,6 @@ title: "Siyang everything dump"
 tags: 
 - room
 ---
-
 A few years ago I started posting sketches and unfinished artwork in a [secret tumblr account](https://siyang-art-dump.tumblr.com/). I don't quite remember why I did it, but it must have been some combination of:
 - getting in the habit of "finishing"
 - avoiding (minor) scrutiny I'd otherwise experience from any (very small) following on other accounts

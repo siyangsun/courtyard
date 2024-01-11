@@ -7,6 +7,7 @@ tags:
 
 You get a completely different sense of a city from walking through it compared to other modes. This may be due to:
 - seeing buildings on smaller streets or from the street level
+- seeing people's faces
 - spending much more time to get from point A to point B
 - physical exertion?
 - "exposure" to air and to all senses vs. being enclosed

@@ -5,11 +5,12 @@ tags:
 - under-construction
 ---
 
-- can feel like public transit, w]ere you get to see other people traveling with you
-- gets you where you want to go pretty fast but not too fast
+Just like in the physical world, games often involve traversing the game map with different methods. Among these, I'm a fan of what I call medium-speed travel: faster than walking, but not quite as instantaneous as [fast travel](https://en.wikipedia.org/wiki/Fast_travel).
+- extends your range to explore without losing all "weight" or consequence to travel decisions
+- different way of experiencing the game world
 	- [[granularity of transportation]]
-- feel some "weight" or consequence to travel decisions
+- can feel like public transit, where you get to see other people traveling with you
 
 examples:
 - airship in maplestory
-- zepellin in wow
+- zeppelin in wow

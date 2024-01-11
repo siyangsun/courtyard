@@ -4,4 +4,4 @@ tags:
 - hallway
 ---
 
-Things with [[barriers to entry]] have a high skill floor.
+Things with [[barriers to entry]] have a high skill floor. 

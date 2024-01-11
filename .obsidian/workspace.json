@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef5643a8f99be389",
+        "id": "dc86940e9b111b13",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b392a43c5a15fa",
+            "id": "34b4eb5e5949f7ec",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9d260527852b2cb7",
@@ -133,12 +132,12 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8b392a43c5a15fa",
+  "active": "76a60dc99d04146c",
   "lastOpenFiles": []
 }

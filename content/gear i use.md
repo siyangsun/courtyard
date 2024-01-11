@@ -8,7 +8,7 @@ tags:
 - I do most personal stuff on a [Meshlicious](https://ssupd.co/products/meshlicious) 14L SFF PC build with compromises made to fit an RTX3070 (which I barely use) and 2TBs of NVMe storage (which I kind of use).
 - I type on a [ZSA moonlander mk I](https://www.zsa.io/moonlander/) split ortho (columnar tilt) keyboard. I use a pretty simple QWERTY [layout](https://configure.zsa.io/moonlander/layouts/njbZx/latest/0) with some minor adjustments, though this is a work in progress and may change in the future as I experiment.
 - I use a [2nd gen XP-Pen Artist Pro 22](https://www.xp-pen.com/store/buy/artist-22-2nd-gen.html?gad=1) for digital art. I'm thinking of replacing the screen protector with a paper textured one.
-- For my monitoring setup I use a pair of [5 inch JBL LSR305](https://jblpro.com/products/lsr305) which uses a [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2) as the interface.
+- For my audio monitoring setup I use a pair of [5 inch JBL LSR305](https://jblpro.com/products/lsr305) which uses a [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2) as the interface.
 - I usually aspire to have a standing desk, monitor arm, ergonomic chair, etc. though these are fluid with my current living situation.
 
 ## Software

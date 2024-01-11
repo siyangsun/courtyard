@@ -4,7 +4,7 @@ tags:
   - room
   - exhibit
 ---
-#### I've been thinking about how to organize and share my thoughts for many years. 
+#### I spent many years thinking about how to organize and share my thoughts
 Having spent a period of time thinking about this is not uncommon; I find some comfort in that I'm not the only one out here with a wasteland of discarded blogs that each went strong for maybe 3 months. 
 
 ![[a hydra of twitter and tumblr accounts.png]]
@@ -15,20 +15,20 @@ It's probably been almost 10 years since the last genuine attempt at this. My fi
 #### Digital gardening
 In 2022 I started sharing a pruned and curated version of these thoughts and notes in a wiki-style digital garden. A living, breathing, cute little internet thing. It's going pretty well! It's helpful to revisit concepts I've come across and touch them up as I gain more understanding and to make links between ideas. I've even gotten a few messages from readers (wow it feels so weird to use that word lol) who've encountered my page and had interesting things to say!
 
-I don't write much though.
+I didn't write much though.
 
-After some time I realized that, for me, chronological blog posts are much more expressive than evergreen wiki pages. It's what gets me to write more freely and share more generously - wasn't that the motive in the first place? And what about the dimensionality of seeing the chicken-scratch before ideas are refined? Where's the genuine, ugly fidelity of learning in public if we go back and keep overwriting our thoughts over and over again? 
+After some time I realized that, for me, chronological blog posts expressive in a way that evergreen wiki pages aren't. A temporary feeling is what gets me to write more freely and share more generously - wasn't that the motive in the first place? And what about the added dimension of seeing what the chicken-scratch looked like before their ideas were refined? Where's the genuine, ugly fidelity of learning in public if we go back and keep overwriting our thoughts over and over again? 
 
 I came to a similar conclusion in my drawing and painting practice; I posted loose sketches and studies on a “siyang-art-dump” separate from my main page. It got me to sketch more. So why not make a “[[siyang everything dump]]”? I’ve actually thought about this so much that it’s become a meme in my journal...
 ![[how many times i thought about everything dump.png]]
 
-So I'm deciding to start a blog again! Well, I actually decided at the beginning of this year, and what month is it now, September? I think some parts of me did not want to pull the trigger. I kept thinking back to the [digital gardening ethos](https://maggieappleton.com/garden-history) and how I interpreted it. I talked to some other people who maintain digital gardens for themselves and it seemed like most leaned towards putting everything there, instead of keeping posts on the post website and notes on the notes website.
+So I decided to start a blog again! I think some parts of me did not want to pull the trigger. I kept thinking back to the [digital gardening ethos](https://maggieappleton.com/garden-history) and how I interpreted it. I talked to some other people who maintain digital gardens for themselves and it seemed like most leaned towards putting everything there, instead of keeping posts on the post website and notes on the notes website.
 
 ![[jacky's thoughts on digital garden dumping.png]]
 
 Yet again I found myself agonizing over a decision I'd already "made"! After all, agonizing is one of only two things I know; the other is suddenly and spontaneously deciding to "choose both".
 
-I'm going to keep my digital garden, and continue tending to it and adding as much as I can. And this will be a new form factor of that; a space to vocalize and share, and to snap baby pictures of the saplings that will get us to the bonsai trees we’ll tend to for years and years. 
+While continuing to tend to my digital garden and adding as much as I can, I also would have a space to vocalize and share, and to snap baby pictures of the saplings that will get us to the bonsai trees we’ll tend to for years and years. 
 
 #### The system (for the moment)
 I intend to blog about things I'm thinking and feeling *now*, and plant to the garden things I *continue* to think about. These are not mutually exclusive. Things will, and should, overlap; at least until they have grown into something else entirely. If you want a thriving garden, you need to do some weeding too.

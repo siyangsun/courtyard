@@ -14,3 +14,4 @@ tags:
 - Linux compatible
 - New plugin format (CLAP)
 - Plugin sandboxing (crashed VST plugins will not crash the program)
+- Can, to some degree, import project files from a few other DAWs

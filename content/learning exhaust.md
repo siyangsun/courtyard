@@ -8,10 +8,12 @@ While learning, many students will keep notes and cheatsheets, which they share 
 
 Unlike vehicle emissions, producing learning exhaust requires intentioned effort. After exiting school and freeing ourselves from coursework, the default way to learn things is in private. Many of us watch videos, read articles, and maybe occasionally try to make stuff on our own, but never post it because it seems like it'll never take off.
 
-![[Learning in Private.png|learning in private]]
+![[images/Learning in Private.png|learning in private]]
 
 learning in private = grinding skills
+
 learning in public = doing quests
+
 [[doing quests is more rewarding than grinding skills]]
 
 This is one way of [[working with the garage door open]].

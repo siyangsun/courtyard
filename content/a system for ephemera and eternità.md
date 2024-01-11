@@ -20,7 +20,7 @@ I didn't write much though.
 After some time I realized that, for me, chronological blog posts expressive in a way that evergreen wiki pages aren't. A temporary feeling is what gets me to write more freely and share more generously - wasn't that the motive in the first place? And what about the added dimension of seeing what the chicken-scratch looked like before their ideas were refined? Where's the genuine, ugly fidelity of learning in public if we go back and keep overwriting our thoughts over and over again? 
 
 I came to a similar conclusion in my drawing and painting practice; I posted loose sketches and studies on a “siyang-art-dump” separate from my main page. It got me to sketch more. So why not make a “[[siyang everything dump]]”? I’ve actually thought about this so much that it’s become a meme in my journal...
-![[how many times i thought about everything dump.png]]
+![[images/how many times i thought about everything dump.png]]
 
 So I decided to start a blog again! I think some parts of me did not want to pull the trigger. I kept thinking back to the [digital gardening ethos](https://maggieappleton.com/garden-history) and how I interpreted it. I talked to some other people who maintain digital gardens for themselves and it seemed like most leaned towards putting everything there, instead of keeping posts on the post website and notes on the notes website.
 

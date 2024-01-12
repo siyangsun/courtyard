@@ -14,7 +14,7 @@ Years later I applied this idea to a beat dump on soundcloud where I'd post musi
 
 Here and there I found myself thinking, why not make a "Siyang everything dump" where I just aggregate EVERYTHING I think about or experience or make into one place? Without having to navigate separate platforms or new identities? Where people can find out about the other stuff I do too (slight overshare: this might have come from some unresolved jack-of-all-trades insecurity where I need to prove that I'm decent at a lot of stuff to accept that I'm not amazing at any one thing)? This became almost something of a meme in my journal in the last few years. 
 
-![[images/how many times i thought about everything dump.png]]
+![[how many times i thought about everything dump.png]]
 
 Exploring where to go let me to a bunch of interesting tools (many of which I still use):
 - [[obsidian]] vaults

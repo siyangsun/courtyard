@@ -17,7 +17,7 @@ For the literal blank canvas, I installed this program called [Carapace](https:/
 
 You can get up to, if I remember correctly, 10 vanishing points on one canvas. If you could ever think of a situation where you would need that many.
 
-![[images/Carapace.png]]
+![[Carapace.png]]
 
 An interesting approach is the "marker first" method. This involves using a very large, low opacity brush (or marker, if you're working in traditional media) to work out the basic forms. [Feng Zhu](https://www.youtube.com/user/FZDSCHOOL) and his design cinema series on YouTube go more into this; his methods of dealing with a blank canvas are quite helpful for those wanting to get into his type of work. 
 

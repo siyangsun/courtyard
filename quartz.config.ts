@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "The Courtyard",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "siyangsun.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -20,23 +20,23 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "#F3FFB9",
+          lightgray: "#F9A03F",
+          gray: "#D45113",
+          darkgray: "#170B0E",
+          dark: "#170B0E",
+          secondary: "#D45113",
+          tertiary: "#3C1742",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
+          light: "#170B0E",
+          lightgray: "#F9A03F",
+          gray: "#813405",
+          darkgray: "#F3FFB9",
+          dark: "#F3FFB9",
+          secondary: "#F9A03F",
+          tertiary: "#BE2422",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },

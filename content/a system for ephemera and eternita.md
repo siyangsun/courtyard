@@ -4,9 +4,9 @@ tags:
   - room
   - exhibit
 ---
+
 #### I spent many years thinking about how to organize and share my thoughts
 Having spent a period of time thinking about this is not uncommon; I find some comfort in that I'm not the only one out here with a wasteland of discarded blogs that each went strong for maybe 3 months.
-
 ![[a hydra of twitter and tumblr accounts.png]]
 https://mooncasted.work/about/
 

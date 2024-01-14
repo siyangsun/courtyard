@@ -6,9 +6,7 @@ tags:
 ---
 
 I took [Sinix Design's](https://www.youtube.com/user/sinixdesign) [abstract design theory](https://www.brainstormschool.com/adtflash) course online through Brainstorm School. The course goes through how to analyze aesthetic fundamentals and apply that to paintings, which is important for [[training intuition]] on how to make art that looks good and communicates intent. There is a scheduled lecture component, ungraded assignments, and an unstructured discussion via [[discord]]. I've found that the most impactful part has been the discussion community; getting feedback and doing the assignments (often multiple times over just for extra practice) with the other students. People would live stream their digital art programs to everyone else, [[working with the garage door open]]. This type of community acted as an [[enabling environment]] for learning and applying the coursework.
-
 Here are my working notes from the class:
-
 ## lecture 1
 #### housekeeping
 - abstract = non-representational; abstract exists outside of the visual library

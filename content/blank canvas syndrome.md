@@ -7,11 +7,9 @@ tags:
 Writers, artists, composers, mathematicians.. Everyone knows how terrifying a blank white page looks. The void stares back at you, daring you to desecrate its pure surface. Anything you type, write, sketch out, or even think about seems unworthy to break its fresh appearance. Once you've gotten into it, though, your experience carries you through. Nothing is ever as hard as starting something new.
 
 The funny thing is, a blank slate has the most potential of all. It can be anything you want it to be. And that's exactly what's so frightening about it.
-
 ## Getting around it
 
 One way to overcome blank canvas syndrome is to make any kind of mark; some may even advocate for as messy of a mark as possible. It could be just a scratchy doodle, or a blob of paint, or a rough beat-boxed rhythm, or some quick notes about the ideas we want to convey. This "ruins" the blank slate and helps put us in a spot (as well as a headspace) where we can figure out the [[gradient of improvement]], from which we can take advantage of [[happy accidents]]. 
-
 ## For art
 For the literal blank canvas, I installed this program called [Carapace](https://www.epicgames.com/community/2012/11/free-art-tool-released-thanks-to-epic-friday/), which is a perspective tool created by Epic Games' art department. It is an easy way to generate perspective lines that can be customized and pasted into anything. Seeing the lines helps me visualize what I want to design, and makes me feel less about marking up a clean surface. 
 

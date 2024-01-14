@@ -3,7 +3,6 @@ title: "Requirements for a real-life quest"
 tags: 
 - room
 ---
-
 ## Requirements
 1. Starts by talking to a person
 2. Has set of pre-requisite skills

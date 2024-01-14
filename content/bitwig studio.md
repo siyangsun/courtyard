@@ -6,7 +6,6 @@ tags:
 ---
 
 [Bitwig studio](https://www.bitwig.com/) is a Digital Audio Workstation designed by Bitwig GmbH.
-
 #### Standout features
 - Ableton-style workflow
 - Built-in modulation and automation of any parameter

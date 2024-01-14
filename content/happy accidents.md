@@ -1,7 +1,6 @@
 ---
-title: "Happy accidents"
-tags:
-- hallway
+title: Happy accidents
+tags: []
 ---
 
 >We don't make mistakes -- we just have happy accidents.

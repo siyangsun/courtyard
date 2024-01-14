@@ -1,7 +1,6 @@
 ---
-title: "Chekhov's gun"
-tags:
-- hallway
+title: Chekhov's gun
+tags: []
 ---
 
 Chekhov's gun is a theory that an object or piece of a narrative should only be included if it has a purpose. If a gun is never brandished or shot then it has no place in the story. 

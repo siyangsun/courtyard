@@ -1,7 +1,6 @@
 ---
-title: "Philosophical razor"
-tags:
-- hallway
+title: Philosophical razor
+tags: []
 ---
 
 https://en.wikipedia.org/wiki/Philosophical_razor

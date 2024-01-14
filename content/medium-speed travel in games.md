@@ -1,8 +1,6 @@
 ---
-title: "Medium speed travel in games"
-tags: 
-- hallway
-- under-construction
+title: Medium speed travel in games
+tags: []
 ---
 
 Just like in the physical world, games often involve traversing the game map with different methods. Among these, I'm a fan of what I call medium-speed travel: faster than walking, but not quite as instantaneous as [fast travel](https://en.wikipedia.org/wiki/Fast_travel).

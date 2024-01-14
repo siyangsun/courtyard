@@ -1,8 +1,6 @@
 ---
-title: "Granularity of transportation"
-tags: 
-- room
-- under-construction
+title: Granularity of transportation
+tags: []
 ---
 
 You get a completely different sense of a city from walking through it compared to other modes. This may be due to:

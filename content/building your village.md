@@ -1,7 +1,6 @@
 ---
-title: "Building your village"
-tags:
-- hallway
+title: Building your village
+tags: []
 ---
 
 >It takes a village to raise a child

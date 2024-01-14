@@ -1,8 +1,7 @@
 ---
-title: "Spitpaint"
+title: Spitpaint
 tags:
-- room
-- drawing
+  - drawing
 ---
 
 A spitpaint is a 30 minute sketch of a set topic. It's kind of like the minimum-viable painting. This can be used for quickly fleshing out ideas, loosening up before a larger painting, or practicing / trying out new techniques. This is an exercise that tries to leverage the fact that [[limitations breed creativity]].

@@ -1,7 +1,6 @@
 ---
-title: "Shortcomings of intention"
-tags:
-- hallway
+title: Shortcomings of intention
+tags: []
 ---
 
 - intention is WHAT someone is thinking when they do an action. for example, i say somethng to you with the intent of starting conversation.

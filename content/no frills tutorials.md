@@ -1,8 +1,6 @@
 ---
-title: "No frills tutorials"
-tags: 
-- room
-- under-construction
+title: No frills tutorials
+tags: []
 ---
 
 Most Youtube tutorials often contain unnecessary bloat ("top 5 list" format, excessive monologue, b-roll montages, self-promotion, ad segment) and run at 10+ minutes for revenue reasons, not to mention the clickbait titles and thumbnails making it hard to search a specific technique. This is usually not conducive to learning. 

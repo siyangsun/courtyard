@@ -1,8 +1,6 @@
 ---
-title: "Ways to aggregate and organize content"
-tags: 
-- room
-- under-construction
+title: Ways to aggregate and organize content
+tags: []
 ---
 
 - unsorted dump (likes)

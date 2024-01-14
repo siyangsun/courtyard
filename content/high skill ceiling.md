@@ -1,7 +1,6 @@
 ---
-title: "High skill ceiling"
-tags: 
-- room
+title: High skill ceiling
+tags: []
 ---
 
 

@@ -1,8 +1,7 @@
 ---
-title: "Bitwig studio"
+title: Bitwig studio
 tags:
-- room
-- music
+  - music
 ---
 
 [Bitwig studio](https://www.bitwig.com/) is a Digital Audio Workstation designed by Bitwig GmbH.

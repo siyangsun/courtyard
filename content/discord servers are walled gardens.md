@@ -1,7 +1,6 @@
 ---
 title: Discord servers are walled gardens
-tags:
-  - hallway
+tags: []
 ---
 
 [[Discord]] servers can act as private message boards for groups of friends or online communities. Due to the chatroom style nature, they are innately unindexed by the web (unlike traditional forums or other social media apps like Reddit). Intuitively this resembles group chats on messaging apps or private conversations between friends.

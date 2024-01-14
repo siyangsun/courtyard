@@ -1,7 +1,6 @@
 ---
-title: "Blank canvas syndrome"
-tags:
-- room
+title: Blank canvas syndrome
+tags: []
 ---
 
 Writers, artists, composers, mathematicians.. Everyone knows how terrifying a blank white page looks. The void stares back at you, daring you to desecrate its pure surface. Anything you type, write, sketch out, or even think about seems unworthy to break its fresh appearance. Once you've gotten into it, though, your experience carries you through. Nothing is ever as hard as starting something new.

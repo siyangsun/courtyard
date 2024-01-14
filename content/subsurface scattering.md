@@ -1,7 +1,6 @@
 ---
-title: "Subsurface scattering"
-tags:
-- hallway
+title: Subsurface scattering
+tags: []
 ---
 
 https://en.wikipedia.org/wiki/Subsurface_scattering

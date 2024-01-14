@@ -1,7 +1,6 @@
 ---
-title: "Barriers to entry"
-tags: 
-- room
+title: Barriers to entry
+tags: []
 ---
 
 Barriers to entry are common in many hobbies, professions, markets, social circles, and other physical or virtual spaces. They can be tangible (owned assets, geographic location, physical characteristics) or intangible (knowledge, experience, influence). 

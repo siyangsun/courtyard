@@ -1,5 +1,4 @@
 ---
-title: "Limitations breed creativity"
-tags:
-- hallway
+title: Limitations breed creativity
+tags: []
 ---

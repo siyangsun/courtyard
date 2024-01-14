@@ -1,7 +1,6 @@
 ---
-title: "Startups are asymmetric warfare"
-tags:
-- room
+title: Startups are asymmetric warfare
+tags: []
 ---
 
 A [skirmisher](https://en.wikipedia.org/wiki/Skirmisher) is a type of soldier who specializes in light and sporadic combat. This often means prioritizing agility, speed, and creative use of battle circumstances over doctrine, discipline, and power. Skirmishers excel in [asymmetric warfare](https://en.wikipedia.org/wiki/Asymmetric_warfare), where there is an imbalance in the strength of the opposing sides. Such strategies can enable a small force to take on a much larger and better-equipped force. 

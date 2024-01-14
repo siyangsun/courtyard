@@ -1,8 +1,7 @@
 ---
-title: "Understanding equalization"
-tags: 
-- room
-- music
+title: Understanding equalization
+tags:
+  - music
 ---
 
 Equalization is an important tool in signals processing that lets us control the level of different frequences of a sound. 

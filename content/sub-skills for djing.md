@@ -1,8 +1,6 @@
 ---
-title: "Relative minor"
-tags: 
-- room
-- under-construction
+title: Relative minor
+tags: []
 ---
 
 Performing as a DJ requires understanding of several things.

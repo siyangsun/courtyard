@@ -1,7 +1,6 @@
 ---
-title: "Requirements for a real-life quest"
-tags: 
-- room
+title: Requirements for a real-life quest
+tags: []
 ---
 ## Requirements
 1. Starts by talking to a person

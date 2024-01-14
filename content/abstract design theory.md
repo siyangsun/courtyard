@@ -1,7 +1,6 @@
 ---
 title: Abstract design theory
 tags:
-  - room
   - drawing
 ---
 

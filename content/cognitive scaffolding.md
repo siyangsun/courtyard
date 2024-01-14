@@ -1,7 +1,6 @@
 ---
-title: "Cognitive scaffolding"
-tags:
-- hallway
+title: Cognitive scaffolding
+tags: []
 ---
 
 Cognitive scaffolding is an educational framework where something helps reduce the cognitive load of a task until the learner is ready to do so without it (I like to think of this as how training wheels help you learn how to ride a bike, or crutches help you start to walk again after an injury). 

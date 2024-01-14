@@ -1,7 +1,6 @@
 ---
-title: "Using depth models to generate post-processing fog"
-tags: 
-- room
+title: Using depth models to generate post-processing fog
+tags: []
 ---
 
 With neural networks it's now possible to [generate a depth map from any image](https://arxiv.org/pdf/1604.03901.pdf). I noticed that generated depth maps often look like the image on an extremely foggy day (almost like a demo of atmospheric perspective)

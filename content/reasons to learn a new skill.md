@@ -1,7 +1,6 @@
 ---
-title: "Reasons to learn a new skill"
-tags:
-- closet
+title: Reasons to learn a new skill
+tags: []
 ---
 
 - self growth - what makes you tick, how to emotionally regulate

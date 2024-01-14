@@ -1,8 +1,7 @@
 ---
-title: "Observations on skin highlights"
+title: Observations on skin highlights
 tags:
-- room
-- drawing
+  - drawing
 ---
 
 Understanding how direct sunlight interacts with skin to add it to the [[visual library]]

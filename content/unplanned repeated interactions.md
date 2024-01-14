@@ -1,7 +1,6 @@
 ---
-title: "Unplanned repeated interactions"
-tags:
-- hallway
+title: Unplanned repeated interactions
+tags: []
 ---
 
 Social [[happy accidents]]

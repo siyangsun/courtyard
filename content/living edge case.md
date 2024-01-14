@@ -1,7 +1,6 @@
 ---
-title: "Living edge case"
-tags: 
-- room
+title: Living edge case
+tags: []
 ---
 
 Some people have lived a life others cannot believe or comprehend. Aside from Guinness world record holders, someone with a rare disease or extremely niche profession has lived a life that's very different from that of the average person.

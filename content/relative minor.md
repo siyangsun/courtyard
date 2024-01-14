@@ -1,7 +1,6 @@
 ---
-title: "Relative minor"
-tags: 
-- room
+title: Relative minor
+tags: []
 ---
 
 The relative minor is the 6th of the respective major; for example, A is the 6th of C and so A Minor is the relative minor of C Major. Such a pair shares all the same notes (exact same black and white piano keys) but start at differing points.

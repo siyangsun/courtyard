@@ -1,7 +1,6 @@
 ---
-title: "Gear I Use"
-tags: 
-- closet
+title: Gear I Use
+tags: []
 ---
 
 ## Hardware

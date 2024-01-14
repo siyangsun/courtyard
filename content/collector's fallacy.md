@@ -1,7 +1,6 @@
 ---
-title: "Collector's fallacy"
-tags: 
-- room
+title: Collector's fallacy
+tags: []
 ---
 
 [Collector's fallacy](https://zettelkasten.de/posts/collectors-fallacy/): you really have to work with something to understand it.

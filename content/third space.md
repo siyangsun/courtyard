@@ -1,7 +1,6 @@
 ---
-title: "Third space"
-tags: 
-- hallway
+title: Third space
+tags: []
 ---
 1st space: home
 2nd space: work

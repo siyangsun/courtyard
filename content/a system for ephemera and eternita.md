@@ -1,7 +1,6 @@
 ---
 title: A system for ephemera and eternità
 tags:
-  - room
   - exhibit
 ---
 

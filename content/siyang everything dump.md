@@ -1,7 +1,6 @@
 ---
-title: "Siyang everything dump"
-tags: 
-- room
+title: Siyang everything dump
+tags: []
 ---
 A few years ago I started posting sketches and unfinished artwork in a [secret tumblr account](https://siyang-art-dump.tumblr.com/). I don't quite remember why I did it, but it must have been some combination of:
 - getting in the habit of "finishing"

@@ -1,6 +1,6 @@
 ---
-title: Relative minor
-tags: []
+title: Sub-skills for DJing
+tags:
 ---
 
 Performing as a DJ requires understanding of several things.

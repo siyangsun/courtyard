@@ -1,6 +1,6 @@
 ---
-title: Reasons to learn a new skill
-tags: []
+title: Learning about learning
+tags:
 ---
 
 The act of learning itself can be thought of as a skill that one can continuously improve at by understanding the cognitive process of learning. This is also known as [meta-learning](https://en.wikipedia.org/wiki/Meta-learning). 

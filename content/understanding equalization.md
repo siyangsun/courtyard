@@ -4,7 +4,7 @@ tags:
   - music
 ---
 
-Equalization is an important tool in signals processing that lets us control the level of different frequences of a sound. 
+Equalization is an important tool in signals processing that lets us control the level of different frequencies of a sound. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r7556ybtdW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

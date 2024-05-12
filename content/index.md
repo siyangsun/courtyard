@@ -17,7 +17,7 @@ I've been taking scattered notes in [[obsidian]] for quite some time now and exp
 
 
 ## How do you navigate this site?
-I've found the best way to navigate a digital garden is just how you'd navigate a "real" garden - by wandering from room to room based on what seems interesting. This can be done by clicking on any of the internal links throughout each page. There's also a view of the full layout of connected links at the bottom; a site map if you will. A benefit of digitization is that you can also directly search for pages or keywords at the top, as well as tags that I've decided on using.
+I've found the best way to navigate a digital garden is just how you'd navigate a "real" garden - by wandering from plot to plot based on what colors and scents most attract. This can be done by clicking on any of the internal links throughout each page. There's also a view of the full layout of connected links at the bottom; a site map if you will. A benefit of digitization is that you can also directly search for pages or keywords at the top, as well as tags that I've decided on using.
 
 ## Who am I?
 You can read more about me on my [main site!](https://siyangsun.github.io/)

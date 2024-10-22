@@ -11,7 +11,7 @@ Performing as a DJ requires understanding of several things.
 More advanced skills:
 - learning keys to mix between / transpose
 	- learning about each key's [[relative minor]]
-	- understanding the camelot wheel (circle of fifths) to mix harmonically
+	- understanding the camelot wheel ([[circle of fifths]]) to mix harmonically
 - having an array of transitions in toolkit
 - playing with energy using FX
 - micro-edits to make live

@@ -10,10 +10,7 @@ export function extractDomainFromBaseUrl(baseUrl: string) {
 
 export const CNAME: QuartzEmitterPlugin = () => ({
   name: "CNAME",
-  getQuartzComponents() {
-    return []
-  },
-  async emit({ argv, cfg }, _content, _resources, _emit): Promise<FilePath[]> {
+  async emit({ argv, cfg }) {
     if (!cfg.configuration.baseUrl) {
       console.warn(chalk.yellow("CNAME emitter requires `baseUrl` to be set in your configuration"))
       return []
@@ -23,7 +20,8 @@ export const CNAME: QuartzEmitterPlugin = () => ({
     if (!content) {
       return []
     }
-    fs.writeFileSync(path, content)
+    await fs.promises.writeFile(path, content)
     return [path] as FilePath[]
   },
+  async *partialEmit() {},
 })

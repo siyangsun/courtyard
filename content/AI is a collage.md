@@ -3,7 +3,7 @@ title: AI is a collage
 tags: []
 ---
 
-A [generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) is a type of machine learning framework often used for creating images. 
+A [generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network) is a type of machine learning framework involving two competing neural networks. GANs were often used for creating images before the widespread usage of diffusion models. These thoughts were gathered from reading various posts by [Vi Hart](https://vihart.weebly.com/) in 2019.
 ## Thinking of GANs as a collage
 [Dada, Instagram, and the Future of AI/](https://theartofresearch.org/we-are-collage-dada-instagram-and-the-future-of-ai/)
 - collages are Dada 1.0

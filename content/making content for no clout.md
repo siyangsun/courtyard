@@ -17,3 +17,5 @@ places to do this:
 - google reviews
 
 commonalities: anonymity, lack of metrics, community focus
+
+see also: [[using social media as a public archive]]

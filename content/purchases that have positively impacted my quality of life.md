@@ -1,0 +1,3 @@
+- breathing strips on the bridge of the nose for sleeping
+- standing desk
+- 

@@ -1,4 +1,5 @@
 .DS_Store
+content/_remotely-save-metadata-on-remote.json
 .gitignore
 node_modules
 public

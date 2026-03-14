@@ -39,6 +39,16 @@ git remote set-url origin git@github-personal:siyang/personal_repo.git
 ```
 
 and then confirm using `ssh -T git@github-personal`
+### using multiple claude accounts
+
+this is quite easy actually; we can just use each repo’s `.env` file to manage this
+
+```bash
+ANTHROPIC_API_KEY=sk-personal-xxxxx
+# ANTHROPIC_API_KEY=sk-work-xxxxx
+```
+
+and then just use `source .env` to activate the right one
 
 ### other useful tidbits
 

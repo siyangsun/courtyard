@@ -1,0 +1,33 @@
+---
+title: Things that would have increased MY immersion in Diablo 4
+---
+- more opportunities for player interaction
+- louder music
+- longer side quest chains; more compelling side quests; recurring characters in side quests
+	- harder side quest bosses
+- towns being different from each other
+	- shop npcs being a bit different beyond the 6 or so pre-set npcs
+		- maybe sell slightly different stuff based on region?
+	- having more unique reasons to go to specific towns
+- dungeons need WAY more lore and exposition imo. especially ones that have a side quest 
+	- being way more distinct from each other in terms of gameplay flow
+	- some "aboveground" instanced content
+	- bosses too generic; every arena and entrance to arena looks same. note how cool some of the campaign dungeons were, because how the fights started felt so different
+- being able to find and talk to story npcs post-campaign (that we already have a relationship with) and have them give us more side quests
+- more random plaques throughout the world; descriptions of ruins
+- more difficult overworld gameplay (strongholds are great) vs. being forced to do dungeons
+- random corpses on ground should have some backstory sometimes
+- more flavor text on items. even base items should have a little bit of flavor i think
+	- some unique items should have a connection to the world/existing lore
+- more flavor behind monsters in general
+	- more mob types - even if theyre just chromas of existing mobs, i shouldnt see the exact same names for a generic bandit everywhere. if you must keep the name mostly similar to key the player in on that mob's attack patterns, then at least add some adjectives
+	- i would rather have randomly generated names for elites, and then show me the affixes (like poe)
+	- who are the enemies (e.g. the kazra, the blood clan)? why are we fighting them? how did they get corrupted by lillith?
+	- monster bestiary tab (maybe in collections) with descriptions of monsters
+	- a bit more exposition for deterministic elite monsters beyond the wanted boards
+- player character origins
+	- who is the player character? (depending on class) in d3 we were the nephalem, who the hell are we now?
+	- name my mount and upgrade it (can be stuff other than speed, such as remount cd or tankiness or item pickup radius)
+	- story behind class specific upgrades beyond just doing one quest
+	- flavor behind skills too; i want to know what my skill is doing in the world, not just in the game's mechanics (e.g. "lightning magic tears a rift between points of high and low energy in the air" vs "teleports player a short distance and does damage")
+- other dimensions we can travel to and do content in (such as hell)

@@ -8,7 +8,7 @@ In role playing games, there are often abilities you're meant to use to help you
 
 I've found it's also useful to identify some of these tools for my daily life in the case of tough situations or low energy states (such as [[coming out of a funk]]).
 
-Ideas
+These might be anything like:
 - listening to a favorite song or playlist
 - cooking a meal for yourself
 - retail therapy
@@ -19,6 +19,8 @@ Ideas
 ---
 
 ## most effective defensive cooldowns (from my experience)
+I actually ran an experiment for a while where I would list out a bunch of things that I considered "defensive cooldowns", and log whenever I used them how effective they felt like they were / how easy they felt to do. The most effective ones were:
+
 - cold shower (at least 60 seconds). cool is good (and easy), as cold as possible is best
 - dress up as if going out
 - hot shower, funny enough. nice-smelling fragrances amplify this effect

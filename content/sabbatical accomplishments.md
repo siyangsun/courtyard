@@ -1,0 +1,32 @@
+---
+title: Sabbatical accomplishments
+---
+things i accomplished in my pseudo-sabbatical from fulltime work (~feb - aug 2023)
+- released 3 songs
+	- set up distribution service
+	- made designs / content and tried to do some promo
+- explored the city and made a lot of new friends
+- went on one (1) date lmao
+- went to twitter irl stuff
+	- visa fans hang
+	- meeting up with samir
+	- kasra's learning night
+	- gardens with jackie
+- tried to get into chroma corps
+- completely zipped up work on retina stuff
+- learned how to build with LLM APIs
+- got over psychological brainworms
+	- AI stuff
+	- threads / online identity stuff
+	- djing
+	- self promo stuff (kinda)
+	- residual prev job trauma
+- finally bought some clothes
+- sustainably furnished apartment
+- jumped around in the pouring rain
+- went to a studio practice room
+- freestyle rapped for 2 hours
+- started learning how to dj
+- thought through more of my internal thought systems
+- got a job that im pretty excited about
+- went to iceland

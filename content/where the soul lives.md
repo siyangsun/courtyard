@@ -1,0 +1,17 @@
+---
+title: Where the soul lives
+---
+- notes app
+- obsidian daily notes
+- personal website / wiki
+- sump / substack
+- are.na
+- twitter dot com
+- tumblr / everything dump type media (new wave media like PI and silk)
+- instagram photo dump
+- local screenshots / files
+- music or art i am making
+- photos and links i sent to my friends
+- things i said to my friends
+- exhaust from things (e.g. last fm, youtube likes, browser history, google maps history)
+- personal data collection (calendar, poop maps, myfitnesspal, goal trackers)

@@ -1,6 +1,7 @@
 ---
 title: Other places I might exist
 ---
+Also known as `/elsewhere`
 This was ported over as a subdirectory of my homepage!
 
 - [spotify](https://open.spotify.com/artist/7a8uIcR128H9Hx1PzRwgaV?si=81H6lzEGQt-cKnORpiKXdw) for music i've released

@@ -8,3 +8,4 @@ title: Personal Canon
 	- [[counterintuitive body reminders]]
 - [[love food so much that you end up learning how to cook]]
 - [[chore walk]]
+- [[happy accidents]]
